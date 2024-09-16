@@ -58,11 +58,11 @@ const Pasta = (): React.JSX.Element => {
                         color: TEXT_ACCENT
                     }}
 
-                    className={`text-[1.5rem] leading-none text-left w-[80%] poppins`}
+                    className={`text-[1.5rem] leading-none text-right w-[80%] poppins`}
                 >
-                    Hello my name is Uddeshya singh,
+                    Pasta ke naam pe sirf maggi khaya hai?
                     <br/>
-                    i am here with my gay friends like utsav and tushar.
+                    Aao aur maza lo real italian pasta.
                 </h1>
             </div>
         </section>

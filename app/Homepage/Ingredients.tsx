@@ -22,11 +22,11 @@ const Ingredients = (): React.JSX.Element => {
 
                         className={`text-[1.5rem] text-left w-[80%] poppins`}
                     >
-                        Hello my name is Uddeshya singh,
+                        Fresh and filling ingredients
                         <br/>
-                        i am here with my gay friends like utsav and tushar.
+                        at your doorsteps, Kha kha ke mota ho jaiga
                         <br/>
-                        i am here with my gay friends like utsav and tushar.
+                        Gaurenty hai hamari.
 
                     </h1>
                     <h1
@@ -46,11 +46,13 @@ const Ingredients = (): React.JSX.Element => {
                     style={{
                         border: `2rem solid ${SECONDARY_COLOR}`
                     }}
-                    className={`h-[25rem] relative flex rounded-full overflow-hidden justify-center items-center w-[25rem] bg-red-300`}>
+                    className={`h-[25rem] relative flex rounded-full overflow-hidden justify-center items-center w-[25rem] bg-gray-200`}>
 
                     <Image
                         style={{
-                            scale: 1.5,
+                            scale: 1.8,
+                            transform: `translate(-10rem)`,
+
                         }}
                         className={`absolute left-1/2 -translate-x-[45%]`}
                         src={Img} alt={""}/>
