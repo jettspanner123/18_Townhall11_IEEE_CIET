@@ -75,11 +75,11 @@ const HeroSection = (): React.JSX.Element => {
                 <motion.h1
                     style={{color: TEXT_ACCENT}}
                     className={`absolute leading-[1.5rem] text-right right-[1.5rem] text-[1.5rem]`}>
-                    Uddesya singh hello world
+                    Jucy and yummy kicks,
                     <br/>
-                    Utsav is gay, no weaner
+                    at your place.
                     <br/>
-                    Tushar is seculary, in terms of girls.
+                    with your customization.
                 </motion.h1>
 
 
