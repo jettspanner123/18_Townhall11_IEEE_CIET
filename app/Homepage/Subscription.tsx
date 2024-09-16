@@ -10,7 +10,7 @@ const Subscription = (): React.JSX.Element => {
                 style={{
                     color: TEXT_ACCENT
                 }}
-                className={`font-light text-white leading-none text-[1.5rem] `}>Hello world my name is uddeshya singh and tushar and utsav is gae copples.</p>
+                className={`font-light text-white leading-none text-[1.5rem] `}>newzletter made only for you. Chicken Leg Piece. Ye sab mat padh bhai, padhai kar.</p>
         </section>
     )
 }
